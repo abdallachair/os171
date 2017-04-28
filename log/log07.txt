@@ -1,0 +1,6 @@
+w07-170418-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170418-14-LR-About: Synchronization, From: Lecturer
+w07-170420-13-LR-About: Scheduling, From: Lecturer
+w07-170420-14-LR-About: Scheduling, From: Lecturer
+w07-170420-14-LR-About: CPU Utilization, From: Lecturer
+w07-170422-00-LR-Making Week07 task

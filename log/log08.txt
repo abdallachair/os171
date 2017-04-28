@@ -1,6 +1,12 @@
-w8-1704w08-170418-13-LR-About: Synchronization, From: Lecturer
-w08-170418-14-LR-About: Synchronization, From: Lecturer
-w08-170420-13-LR-About: Scheduling, From: Lecturer
-w08-170420-14-LR-About: Scheduling, From: Lecturer
-w08-170420-14-LR-About: CPU Utilization, From: Lecturer
-w08-170422-00-LR-Making Week07 task
+w08-170425-13-LR-Learning from lecturer in class 
+w08-170425-13-LR-Learning from lecturer in class 
+w08-170425-14-LR-Learning from lecturer in class 
+w08-170425-14-LR-Learning from lecturer in class 
+w08-170425-16-PS-Tutorial about Sockets in Lab 
+w08-170425-16-PS-Tutorial about Sockets in Lab 
+w08-170425-17-PS-Tutorial about Sockets in Lab 
+w08-170425-17-PS-Tutorial about Sockets in Lab 
+w08-170427-13-LR-Learning from lecturer in class 
+w08-170427-13-LR-Learning from lecturer in class 
+w08-170427-14-LR-Learning from lecturer in class 
+w08-170427-14-LR-Learning from lecturer in class
